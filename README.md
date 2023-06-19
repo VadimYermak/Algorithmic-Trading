@@ -8,6 +8,7 @@ precision    recall  f1-score   support
     accuracy                           0.55      4092
    macro avg       0.49      0.50      0.39      4092
 weighted avg       0.50      0.55      0.43      4092
+
 LR model
 precision    recall  f1-score   support
 
